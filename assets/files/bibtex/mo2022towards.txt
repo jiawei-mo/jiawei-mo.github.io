@@ -1,0 +1,6 @@
+@phdthesis{mo2022towards,
+  title={Towards a Fast, Robust and Accurate Visual-Inertial Simultaneous Localization and Mapping System},
+  author={Mo, Jiawei},
+  year={2022},
+  school={University of Minnesota}
+}

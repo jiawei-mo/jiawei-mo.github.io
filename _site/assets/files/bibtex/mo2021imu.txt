@@ -1,0 +1,8 @@
+@inproceedings{mo2022imu,
+  title={IMU-Assisted Learning of Single-View Rolling Shutter Correction},
+  author={Mo, Jiawei and Islam, Md Jahidul and Sattar, Junaed},
+  booktitle={Conference on Robot Learning},
+  pages={861--870},
+  year={2022},
+  organization={PMLR}
+}

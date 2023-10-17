@@ -1,0 +1,8 @@
+@inproceedings{mo2020fast,
+  title={A fast and robust place recognition approach for stereo visual odometry using LiDAR descriptors},
+  author={Mo, Jiawei and Sattar, Junaed},
+  booktitle={2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={5893--5900},
+  year={2020},
+  organization={IEEE}
+}

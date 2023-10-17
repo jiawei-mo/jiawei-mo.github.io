@@ -1,0 +1,10 @@
+@article{islam2021robot,
+  title={Robot-to-robot relative pose estimation using humans as markers},
+  author={Islam, Md Jahidul and Mo, Jiawei and Sattar, Junaed},
+  journal={Autonomous Robots},
+  volume={45},
+  number={4},
+  pages={579--593},
+  year={2021},
+  publisher={Springer}
+}

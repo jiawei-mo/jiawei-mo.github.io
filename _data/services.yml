@@ -1,0 +1,26 @@
+main:
+
+  - venue: IEEE/RSJ International Conference on Intelligent Robots and Systems
+    venue_short: IROS
+    url: https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros
+    years: 2017-2022
+
+  - venue: IEEE International Conference on Robotics and Automation
+    venue_short: ICRA
+    url: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra
+    years: 2020-2022
+
+  - venue: IEEE Robotics and Automation Letters
+    venue_short: RA-L
+    url: https://www.ieee-ras.org/publications/ra-l
+    years: 2021-2022
+
+  - venue: IEEE International Conference on Omni-Layer Intelligent Systems
+    venue_short: COINS
+    url: https://coinsconf.com
+    years: 2022
+
+  - venue: Conference on Robot Learning
+    venue_short: CoRL
+    url: https://www.robot-learning.org/
+    years: 2022

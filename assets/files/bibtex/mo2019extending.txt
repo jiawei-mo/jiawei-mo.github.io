@@ -1,0 +1,8 @@
+@inproceedings{mo2019extending,
+  title={Extending monocular visual odometry to stereo camera systems by scale optimization},
+  author={Mo, Jiawei and Sattar, Junaed},
+  booktitle={2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={6921--6927},
+  year={2019},
+  organization={IEEE}
+}

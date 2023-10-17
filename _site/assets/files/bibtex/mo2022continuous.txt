@@ -1,0 +1,8 @@
+@inproceedings{mo2022continuous,
+  title={Continuous-time spline visual-inertial odometry},
+  author={Mo, Jiawei and Sattar, Junaed},
+  booktitle={2022 International Conference on Robotics and Automation (ICRA)},
+  pages={9492--9498},
+  year={2022},
+  organization={IEEE}
+}

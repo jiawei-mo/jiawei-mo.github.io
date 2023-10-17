@@ -1,0 +1,10 @@
+@article{mo2021fast,
+  title={Fast direct stereo visual slam},
+  author={Mo, Jiawei and Islam, Md Jahidul and Sattar, Junaed},
+  journal={IEEE Robotics and Automation Letters},
+  volume={7},
+  number={2},
+  pages={778--785},
+  year={2021},
+  publisher={IEEE}
+}

@@ -1,0 +1,8 @@
+@inproceedings{edge2020design,
+  title={Design and experiments with LoCO AUV: A low cost open-source autonomous underwater vehicle},
+  author={Edge, Chelsey and Enan, Sadman Sakib and Fulton, Michael and Hong, Jungseok and Mo, Jiawei and Barthelemy, Kimberly and Bashaw, Hunter and Kallevig, Berik and Knutson, Corey and Orpen, Kevin and others},
+  booktitle={2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={1761--1768},
+  year={2020},
+  organization={IEEE}
+}

@@ -1,0 +1,79 @@
+main:
+
+  - title: Towards a Fast, Robust and Accurate Visual-Inertial Simultaneous Localization and Mapping System
+    authors: <strong>Jiawei Mo</strong>
+    conference_short: UMN
+    conference: University of Minnesota, Twin Cities, 2022
+    pdf: https://conservancy.umn.edu/handle/11299/241441
+    code: https://github.com/IRVLab/SOS-SLAM
+    bibtex: ./assets/files/bibtex/mo2022towards.txt
+    image: ./assets/img/publications/mo2022towards.png
+    notes: Ph.D. Dissertation
+
+  - title: Continuous-Time Spline Visual-Inertial Odometry
+    authors: <strong>Jiawei Mo</strong>, Junaed Sattar
+    conference_short: ICRA
+    conference: IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2022
+    pdf: https://arxiv.org/pdf/2109.09035.pdf
+    code: https://github.com/IRVLab/spline_vio
+    page: https://irvlab.cs.umn.edu/continuous-time-spline-visual-inertial-odometry
+    bibtex: ./assets/files/bibtex/mo2022continuous.txt
+    image: ./assets/img/publications/mo2022continuous.png
+
+  - title: Fast Direct Stereo Visual SLAM
+    authors: <strong>Jiawei Mo</strong>, Md Jahidul Islam, Junaed Sattar
+    conference_short: RA-L
+    conference: IEEE Robotics and Automation Letters <strong>(RA-L)</strong>, 2021
+    pdf: https://arxiv.org/pdf/2112.01890.pdf
+    code: https://github.com/IRVLab/direct_stereo_slam
+    page: https://irvlab.cs.umn.edu/projects/robot-localization/fast-direct-stereo-visual-slam
+    bibtex: ./assets/files/bibtex/mo2021fast.txt
+    image: ./assets/img/publications/mo2021fast.png
+
+  - title: IMU-Assisted Learning of Single-View Rolling Shutter Correction
+    authors: <strong>Jiawei Mo</strong>, Md Jahidul Islam, Junaed Sattar
+    conference_short: CoRL
+    conference: Conference on Robot Learning <strong>(CoRL)</strong>, 2021
+    pdf: https://arxiv.org/pdf/2011.03106.pdf
+    code: https://github.com/IRVLab/unrolling
+    page: https://irvlab.cs.umn.edu/learning-rolling-shutter-correction-real-data-without-camera-motion-assumption
+    bibtex: ./assets/files/bibtex/mo2021imu.txt
+    image: ./assets/img/publications/mo2021imu.png
+
+  - title: A Fast and Robust Place Recognition Approach for Stereo Visual Odometry Using LiDAR Descriptors
+    authors: <strong>Jiawei Mo</strong>, Junaed Sattar
+    conference_short: IROS
+    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2020
+    pdf: https://arxiv.org/pdf/1909.07267.pdf
+    code: https://github.com/IRVLab/so_dso_place_recognition
+    page: https://irvlab.cs.umn.edu/place-recognition-stereo-visual-odometry-using-lidar-descriptors
+    bibtex: ./assets/files/bibtex/mo2020fast.txt
+    image: ./assets/img/publications/mo2020fast.png
+
+  - title: Extending Monocular Visual Odometry to Stereo Camera Systems by Scale Optimization
+    authors: <strong>Jiawei Mo</strong>, Junaed Sattar
+    conference_short: IROS
+    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2019
+    pdf: https://arxiv.org/pdf/1905.12723.pdf
+    code: https://github.com/jiawei-mo/scale_optimization
+    page: https://irvlab.cs.umn.edu/projects/dsvo-direct-stereo-visual-odometry
+    bibtex: ./assets/files/bibtex/mo2019extending.txt
+    image: ./assets/img/publications/mo2019extending.png
+
+  - title: Robot-to-Robot Relative Pose Estimation using Humans as Markers
+    authors: Md Jahidul Islam, <strong>Jiawei Mo</strong>, Junaed Sattar
+    conference_short: AuRo
+    conference: Autonomous Robots <strong>(AuRo)</strong>, 2021
+    pdf: https://arxiv.org/pdf/1903.00820.pdf
+    bibtex: ./assets/files/bibtex/islam2021robot.txt
+    image: ./assets/img/publications/islam2021robot.png
+
+  - title: "Design and Experiments with LoCO AUV: A Low Cost Open-Source Autonomous Underwater Vehicle"
+    authors: Chelsey Edge, <strong>Jiawei Mo</strong>, et al.
+    conference_short: IROS
+    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2020
+    pdf: https://arxiv.org/abs/2003.09041
+    code: https://github.com/IRVLab/loco_description
+    page: https://irvlab.cs.umn.edu/other-projects/loco-auv-low-cost-open-source-autonomous-underwater-vehicle
+    bibtex: ./assets/files/bibtex/edge2020design.txt
+    image: ./assets/img/publications/edge2020design.png
