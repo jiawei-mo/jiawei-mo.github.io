@@ -2,14 +2,14 @@
 title: Jiawei Mo
 position: Applied Scientist
 affiliation: Amazon
-affiliation_link: https://aws.amazon.com/
+affiliation_link: https://www.amazon.science/
 email: jiawei0573@gmail.com
 
-keywords: jiawei mo, slam, sensor fusion
+keywords: jiawei mo, slam, nerf, text-to-3d
 description: Personal website of Jiawei Mo.
 canonical: https://https://jiawei-mo.github.io/
 
-google_scholar: https://scholar.google.com/citations?user=v-DwZWMAAAAJ&hl=en
+google_scholar: https://scholar.google.com/citations?user=ROBeZmgAAAAJ&hl
 cv_link: assets/files/Resume.pdf
 linkedin: https://www.linkedin.com/in/jiawei-mo/
 
@@ -17,8 +17,6 @@ avatar: ./assets/img/avatar.jpeg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon.png
 
-enable_footnote: false
 auto_dark_mode: true
 font: "Serif" # or "Sans Serif"
 google_analytics: UA-111540567-4
-remote_theme: yaoyao-liu/minimal-light

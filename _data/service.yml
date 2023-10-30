@@ -8,7 +8,7 @@ main:
   - venue: IEEE International Conference on Robotics and Automation
     venue_short: ICRA
     url: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra
-    years: 2020-2022
+    years: 2020-2022, 2024
 
   - venue: IEEE Robotics and Automation Letters
     venue_short: RA-L

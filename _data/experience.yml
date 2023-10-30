@@ -2,15 +2,15 @@ main:
 
   - title: Applied Scientist II
     employer: Amazon
-    logo: ./assets/img/work/amazon.png
-    url: https://aws.amazon.com/
+    logo: ./assets/img/logos/amazon.png
+    url: https://www.amazon.science/
     time: 06/2022-Present
     location: Bellevue, WA
-    duties: Research and development on SLAM, NeRF, and Text-To-3D
+    duties: Research and development on SLAM, NeRF, and text-to-3D
 
   - title: Perception Research and Development Intern
     employer: Waymo
-    logo: ./assets/img/work/waymo.png
+    logo: ./assets/img/logos/waymo.png
     url: https://waymo.com/
     time: 05/2020-09/2020
     location: Mountain View, CA
@@ -18,7 +18,7 @@ main:
 
   - title: Research Intern
     employer: Facebook Reality Labs
-    logo: ./assets/img/work/frl.jpeg
+    logo: ./assets/img/logos/fb.png
     url: https://tech.facebook.com/reality-labs/
     time: 06/2019-08/2019
     location: Redmond, WA
@@ -26,15 +26,15 @@ main:
 
   - title: Graduate Teaching/Research Assistant
     employer: University of Minnesota
-    logo: ./assets/img/work/umn.png
+    logo: ./assets/img/logos/umn.png
     url: https://irvlab.cs.umn.edu/
     time: 09/2017-05/2022
     location: Minneapolis, MN
-    duties: Research in SLAM, sensor fusion; head TA of C++, linear algebra, data structures and algorithms, and robotics
+    duties: RA in SLAM; TA of C++, linear algebra, data structures and algorithms, and robotics
 
   - title: Software Management Trainee
     employer: TempWorks Software
-    logo: ./assets/img/work/tempworks.png
+    logo: ./assets/img/logos/tempworks.png
     url: https://www.tempworks.com/
     time: 12/2014-05/2015
     location: Eagan, MN

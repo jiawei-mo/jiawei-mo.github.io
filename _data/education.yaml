@@ -1,0 +1,22 @@
+main:
+
+  - degree: Ph.D.
+    major: Computer Science
+    school: University of Minnesota, Twin Cities
+    url: https://twin-cities.umn.edu/
+    logo: ./assets/img/logos/umn.png
+    time: 01/2017-05/2022
+
+  - degree: M.S.
+    major: Computer Science
+    school: University of Minnesota, Twin Cities
+    url: https://twin-cities.umn.edu/
+    logo: ./assets/img/logos/umn.png
+    time: 09/2015-11/2019
+
+  - degree: B.S.
+    major: Computer Science
+    school: University of Minnesota, Twin Cities
+    logo: ./assets/img/logos/umn.png
+    url: https://twin-cities.umn.edu/
+    time: 05/2015
