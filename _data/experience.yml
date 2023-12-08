@@ -1,12 +1,12 @@
 main:
 
   - title: Applied Scientist II
-    employer: Amazon
+    employer: Amazon AGI
     logo: ./assets/img/logos/amazon.png
     url: https://www.amazon.science/
     time: 06/2022-Present
     location: Bellevue, WA
-    duties: Research and development on SLAM, NeRF, and text-to-3D
+    duties: Research and development on SLAM, sensor fusion, NeRF, text-to-3D, and text-to-video
 
   - title: Perception Research and Development Intern
     employer: Waymo
