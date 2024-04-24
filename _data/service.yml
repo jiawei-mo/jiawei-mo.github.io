@@ -3,7 +3,7 @@ main:
   - venue: IEEE/RSJ International Conference on Intelligent Robots and Systems
     venue_short: IROS
     url: https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros
-    years: 2017-2022
+    years: 2017-2022, 2024
 
   - venue: IEEE International Conference on Robotics and Automation
     venue_short: ICRA
