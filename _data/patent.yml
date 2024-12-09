@@ -1,5 +1,4 @@
 main:
-
   - title: US Patent 10872246B2 (IROS 2017 Poster)
     url: https://patentimages.storage.googleapis.com/c4/13/04/a17db2a7d20a1f/US10872246.pdf
     description: Recover lane markers when they are invisible (e.g., covered by snow) using multi-view geometry

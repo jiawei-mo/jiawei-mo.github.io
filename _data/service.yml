@@ -1,5 +1,4 @@
 main:
-
   - venue: IEEE/RSJ International Conference on Intelligent Robots and Systems
     venue_short: IROS
     url: https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros
@@ -13,7 +12,7 @@ main:
   - venue: IEEE Robotics and Automation Letters
     venue_short: RA-L
     url: https://www.ieee-ras.org/publications/ra-l
-    years: 2021-2022
+    years: 2021-2022, 2024
 
   - venue: IEEE International Conference on Omni-Layer Intelligent Systems
     venue_short: COINS
