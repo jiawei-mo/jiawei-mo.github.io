@@ -1,4 +1,4 @@
-Applied Scientist @ <a href="https://www.amazon.science/">Amazon AGI</a><br>
+Applied Scientist @ <a href="https://www.amazon.science/">Amazon</a><br>
 Ph.D. @ <a href="https://twin-cities.umn.edu/">University of Minnesota</a><br>
-Diffusion Models, SLAM, Sensor Fusion
+SLAM, Sensor Fusion, Generative AI
 

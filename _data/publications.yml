@@ -49,6 +49,16 @@ main:
     bibtex: ./assets/files/bibtex/mo2020fast.txt
     image: ./assets/img/publications/mo2020fast.png
 
+  - title: "Design and Experiments with LoCO AUV: A Low Cost Open-Source Autonomous Underwater Vehicle"
+    authors: <strong>Jiawei Mo</strong>, et al.
+    conference_short: IROS
+    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2020
+    pdf: https://arxiv.org/abs/2003.09041
+    code: https://github.com/IRVLab/loco_description
+    page: https://irvlab.cs.umn.edu/other-projects/loco-auv-low-cost-open-source-autonomous-underwater-vehicle
+    bibtex: ./assets/files/bibtex/edge2020design.txt
+    image: ./assets/img/publications/edge2020design.png
+
   - title: Extending Monocular Visual Odometry to Stereo Camera Systems by Scale Optimization
     authors: <strong>Jiawei Mo</strong>, Junaed Sattar
     conference_short: IROS
@@ -66,13 +76,3 @@ main:
     pdf: https://arxiv.org/pdf/1903.00820.pdf
     bibtex: ./assets/files/bibtex/islam2021robot.txt
     image: ./assets/img/publications/islam2021robot.png
-
-  - title: "Design and Experiments with LoCO AUV: A Low Cost Open-Source Autonomous Underwater Vehicle"
-    authors: Chelsey Edge, <strong>Jiawei Mo</strong>, et al.
-    conference_short: IROS
-    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2020
-    pdf: https://arxiv.org/abs/2003.09041
-    code: https://github.com/IRVLab/loco_description
-    page: https://irvlab.cs.umn.edu/other-projects/loco-auv-low-cost-open-source-autonomous-underwater-vehicle
-    bibtex: ./assets/files/bibtex/edge2020design.txt
-    image: ./assets/img/publications/edge2020design.png

@@ -1,11 +1,11 @@
 main:
-  - title: Applied Scientist II
-    employer: Amazon AGI
+  - title: Applied Scientist
+    employer: Amazon
     logo: ./assets/img/logos/amazon.png
     url: https://www.amazon.science/
     time: 06/2022-Present
     location: Bellevue, WA
-    duties: Amazon Nova Reel Video Generation; Research and development on SLAM, NeRF, and generative AI for 3D
+    duties: Amazon Nova Reel Video Generation; R&D on SLAM, NeRF, and generative AI for 3D
 
   - title: Perception Research and Development Intern
     employer: Waymo
