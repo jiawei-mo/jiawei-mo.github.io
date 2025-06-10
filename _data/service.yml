@@ -14,12 +14,17 @@ main:
     url: https://www.ieee-ras.org/publications/ra-l
     years: 2021-2022, 2024
 
+  - venue: Conference on Robot Learning
+    venue_short: CoRL
+    url: https://www.robot-learning.org/
+    years: 2022
+
   - venue: IEEE International Conference on Omni-Layer Intelligent Systems
     venue_short: COINS
     url: https://coinsconf.com
     years: 2022
 
-  - venue: Conference on Robot Learning
-    venue_short: CoRL
-    url: https://www.robot-learning.org/
-    years: 2022
+  - venue: Conference on Neural Information Processing Systems
+    venue_short: NeurIPS
+    url: https://neurips.cc/
+    years: 2025
