@@ -5,7 +5,7 @@ main:
     url: https://www.amazon.science/
     time: 06/2022-Present
     location: Bellevue, WA
-    duties: Amazon Nova Reel Video Generation; R&D on SLAM, NeRF, and generative AI for 3D
+    duties: Amazon Nova Reel video generation; AI-powered virtual guard for home security monitoring; R&D on SLAM, NeRF, and generative AI for 3D
 
   - title: Perception Research and Development Intern
     employer: Waymo
@@ -36,5 +36,5 @@ main:
     logo: ./assets/img/logos/tempworks.png
     url: https://www.tempworks.com/
     time: 12/2014-05/2015
-    location: Eagan, MN
+    location: Bloomington, MN
     duties: Developed a CRM software for staffing management using Meteor and MongoDB
