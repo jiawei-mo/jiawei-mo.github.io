@@ -28,3 +28,8 @@ main:
     venue_short: NeurIPS
     url: https://neurips.cc/
     years: 2025
+
+  - venue: IEEE/CVF Conference on Computer Vision and Pattern Recognition
+    venue_short: CVPR
+    url: https://cvpr.thecvf.com/
+    years: 2026
